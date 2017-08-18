@@ -1,1 +1,1 @@
-# windows-ui-automation
+# Windows-UI-Automation
